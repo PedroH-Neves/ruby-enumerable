@@ -80,6 +80,12 @@ Clone this repository to your desired folder:
 - Twitter: [Najibullah_jafari](https://twitter.com/Najib_Jafari_)
 - LinkedIn: [Najibullah_jafari](https://www.linkedin.com/in/najibullahjafari/)
 
+👤 **Pedro Henrique Domingues Neves**
+
+- GitHub: [@PedroH-Neves](https://github.com/PedroH-Neves)
+- Twitter: [@PedroHDN710](https://twitter.com/PedroHDN710)
+- LinkedIn: [Pedro Neves](https://www.linkedin.com/in/pedrohdn7)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Future Features
