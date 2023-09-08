@@ -1,4 +1,4 @@
-# Morse code
+# Enumerable
 
 
 
@@ -27,8 +27,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Morse code] <a name="about-project"></a>
-**[Morse code]** is a repo of Ruby code that there you will see some method in Ruby language that get the some unkown code and it will translate it to human language.
+# 📖 [Enumerable] <a name="about-project"></a>
+**[Enumerable]** In this project you will learn how to use a module inside your class. For this we created a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -68,7 +68,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- `git clone https://github.com/najibullahjafari/morse-code`
+- `git clone https://github.com/PedroH-Neves/ruby-enumerable/`
 
 <!-- AUTHORS -->
 
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/najibullahjafari/morse-code/issues/).
+Feel free to check the [issues page](https://github.com/PedroH-Neves/ruby-enumerable/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
